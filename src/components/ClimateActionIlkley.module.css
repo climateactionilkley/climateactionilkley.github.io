@@ -1,0 +1,10 @@
+.container {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+}
+
+.fivePoints {
+    margin: 10px;
+}

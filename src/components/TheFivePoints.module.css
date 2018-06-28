@@ -1,0 +1,28 @@
+.container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+
+}
+
+.container li {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.container li:first-child {
+    color: red;
+}
+.container li:nth-child(2) {
+    color: maroon;
+}
+.container li:nth-child(3) {
+    color: mediumpurple;
+}
+.container li:nth-child(4) {
+    color: green;
+}
+.container li:nth-child(5) {
+    color: navy;
+}
