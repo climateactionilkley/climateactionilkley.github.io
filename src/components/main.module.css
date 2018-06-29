@@ -8,9 +8,7 @@
 }
 
 .header {
-    background-image: url('../../public/static/header.jpg');
     margin: 10px;
     width: 100%;
-    background-size: cover;
 }
 

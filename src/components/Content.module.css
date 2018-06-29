@@ -3,11 +3,6 @@
       margin: 15px 0;
   }
 
-.trafficImage {
-    background-image: url('../../public/static/TrafficIlkey.jpg');
-    background-size: contain;
-
-}
 .groveImage {
     margin-top: 20px;
 }
