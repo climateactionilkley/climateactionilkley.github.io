@@ -3,7 +3,7 @@
  */
 import React from 'react';
 
-import header from './header.jpg';
+import header from './imgs/header.jpg';
 
 import Content from './Content';
 

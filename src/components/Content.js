@@ -10,8 +10,8 @@ import NeighbourhoodPlan from './NeighbourhoodPlan';
 
 import styles from './Content.module.css';
 
-import traffic from './TrafficIlkey.jpg';
-import grove from './grove.jpg';
+import traffic from './imgs/TrafficIlkey.jpg';
+import grove from './imgs/grove.jpg';
 
 
 const Content = () =>
