@@ -11,7 +11,7 @@ import styles from './ClimateActionIlkley.module.css';
 
 const ClimateActionIlkley = () =>
   <div className={styles.container}>
-    <h2>Climate Action Ilkley</h2>
+    <h1>Climate Action Ilkley</h1>
     <p>
       … is a newly formed community campaign group. We can take action together to tackle climate change and make a just transition to become a sustainable zero carbon community.
     </p>
@@ -22,9 +22,9 @@ const ClimateActionIlkley = () =>
       Climate change is personal. It's our kids, our grandchildren, our community. It’s everyone. Everywhere.
       We need to take action together. Now.
     </p>
-    <p>
-      Join us …
-    </p>
+    <h1>
+      <a href="https://facebook.us18.list-manage.com/subscribe?u=a1a0e5958b2d727a3b3578b04&id=2a8d87987d" target="_blank">Join us …</a>
+    </h1>
     <div className={styles.fivePoints}>
       <TheFivePoints/>
     </div>

@@ -5,13 +5,13 @@
 
 .groveImage {
     margin-top: 20px;
+    border-radius: 10px;
 }
 
 @media (min-width: 600px) {
     .container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: auto 1fr 1fr;
         grid-gap: 10px;
 
     }
@@ -33,11 +33,13 @@
 }
 
 .trafficImage {
-    padding: auto;
+
+    padding: 10px;
     grid-column: 2 / 4;
     grid-row: 1;
     width: 100%;
     height: auto;
+    border-radius: 20px;
 }
 
 

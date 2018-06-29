@@ -7,7 +7,7 @@ export default () =>
   <div>
     <h2>Neighbourhood Plan</h2>
     <p>
-      We need to make sure the Neighbourhood Plan (link) being developed for Ilkley contains commitments to tackling  the challenge of climate change.
+      We need to make sure the <a href="http://towncouncil.ilkley.org/neighbourhood-plan.html" target="_blank">Neighbourhood Plan</a> being developed for Ilkley contains commitments to tackling  the challenge of climate change.
     </p>
     <p>
       This plan carries some weight legally once it has been passed by referendum in Ilkley next year. This means it’s very important to use it to specify things like improving cycling routes, improving pedestrian experiences and also building standards relating to tackling climate change.

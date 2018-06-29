@@ -7,11 +7,11 @@ import styles from './WeCanFixIt.module.css';
 
 export default () =>
   <div>
-    <h1>We Can Fix it:</h1>
+    <h2>We Can Fix it:</h2>
     <p>One Planet Living is a vision of the world where everyone, everywhere can live happy, healthy lives within the limits of our planet, leaving space for wildlife and wilderness.
     </p>
     <p>
-      The One Planet Living framework has 10 principles which will guide us:
+      The <a href="https://www.bioregional.com/oneplanetliving/" target="_blank">One Planet Living framework</a> has 10 principles which will guide us:
     </p>
     <ul className={styles.principles}>
       <li>Zero carbon</li>
