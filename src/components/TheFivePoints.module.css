@@ -12,17 +12,18 @@
 }
 
 .container li:first-child {
-    color: red;
+    color: #ED0000;
 }
 .container li:nth-child(2) {
-    color: maroon;
+    color: #57000E;
 }
 .container li:nth-child(3) {
-    color: mediumpurple;
+    color: #78B5FF;
 }
 .container li:nth-child(4) {
-    color: green;
+    color: #2DD400;
 }
+
 .container li:nth-child(5) {
-    color: navy;
+    color: #384DFF;
 }
