@@ -22,8 +22,8 @@ const ClimateActionIlkley = () =>
       Climate change is personal. It's our kids, our grandchildren, our community. It’s everyone. Everywhere.
       We need to take action together. Now.
     </p>
-    <h1>
-      <a href="https://facebook.us18.list-manage.com/subscribe?u=a1a0e5958b2d727a3b3578b04&id=2a8d87987d" target="_blank">Join us …</a>
+    <h1 className={styles.joinUs}>
+      <a className={styles.joinUsButton} href="https://facebook.us18.list-manage.com/subscribe?u=a1a0e5958b2d727a3b3578b04&id=2a8d87987d" target="_blank">Join Us</a>
     </h1>
     <div className={styles.fivePoints}>
       <TheFivePoints/>

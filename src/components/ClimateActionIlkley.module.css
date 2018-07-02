@@ -6,5 +6,21 @@
 }
 
 .fivePoints {
-    margin: 10px;
+    margin: 50px 10px 10px 10px;
+}
+.joinUs {
+    text-align: center;
+}
+.joinUsButton {
+    background-color: #0000FF;
+    text-decoration-line: none;
+    border-radius: 30px;
+    border: 3px solid white;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.joinUsButton:hover {
+    background-color: #0000E6;
 }
