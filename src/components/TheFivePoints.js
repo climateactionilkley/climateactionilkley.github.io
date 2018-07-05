@@ -7,7 +7,7 @@ import styles from './TheFivePoints.module.css';
 
 export default () =>
   <div className={styles.container}>
-    <h2>Climate Change</h2>
+    <h1>Climate Change</h1>
     <h4>What we all need to know</h4>
     <ul>
       <li>It's warming</li>

@@ -1,14 +1,24 @@
 .container {
     background-color: white;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     color: black;
 
 }
 
+.container ul {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.container h1 {
+    margin-bottom: 5px;
+}
+
 .container li {
     font-weight: 600;
-    font-size: 24px;
+    font-size: 40px;
+    padding-bottom: 10px;
 }
 
 .container li:first-child {

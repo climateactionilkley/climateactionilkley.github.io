@@ -5,26 +5,27 @@
 
 .groveImage {
     margin-top: 20px;
-    border-radius: 10px;
 }
 
 @media (min-width: 600px) {
     .container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-gap: 10px;
+        grid-gap: 15px;
 
     }
-    .container> * {
+
+    .container > * {
         margin: 0;
     }
 
     .container {
-        img {
-            max-width: 100%;
-            max-height: 100%;
-        }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
     }
+}
 
 .climateActionIlkley {
     grid-column: 1;
@@ -39,10 +40,7 @@
     grid-row: 1;
     width: 100%;
     height: auto;
-    border-radius: 20px;
 }
-
-
 
 .neighbourhoodPlan {
     grid-column: 2;
