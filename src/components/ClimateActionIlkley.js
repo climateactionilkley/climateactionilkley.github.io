@@ -4,6 +4,7 @@
 import React from 'react';
 
 import TheFivePoints from './TheFivePoints';
+import SignUp from './SignUp';
 
 import styles from './ClimateActionIlkley.module.css';
 
@@ -22,12 +23,11 @@ const ClimateActionIlkley = () =>
       Climate change is personal. It's our kids, our grandchildren, our community. It’s everyone. Everywhere.
       We need to take action together. Now.
     </p>
-    <div className={styles.joinUs}>
-      <a className={styles.joinUsButton} href="https://facebook.us18.list-manage.com/subscribe?u=a1a0e5958b2d727a3b3578b04&id=2a8d87987d" target="_blank">Join Us</a>
-    </div>
+
     <div className={styles.fivePoints}>
       <TheFivePoints/>
     </div>
+    <SignUp/>
 
   </div>;
 
